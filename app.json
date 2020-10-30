@@ -1,5 +1,5 @@
 {
-  "name": "awz-website
+  "name": "awz-website",
   "description": "",
   "image": "heroku/python",
   "repository": "https://github.com/Psyrens/awz-website",
